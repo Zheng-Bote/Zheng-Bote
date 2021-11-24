@@ -1,6 +1,6 @@
 # Hello World!
 
-## Github profiel page of ZHENG Bote (Robert)
+## Github profile page of ZHENG Bote (Robert)
 
 **Websites**
 [ZHENG Robert (Profile Page)](https://www.robert.hase-zheng.net/)
