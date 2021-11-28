@@ -15,4 +15,4 @@
 [DigiDocu Dev (web-based documentation management)](https://www.digidocu.dev/)
 
 
-My other Github repositories (e.g. Raspi, ESP8260, ESP32, Win-/Linux-Apps or Web-Apps and Libraries like C++ AES-128 encryption for LORA) will me moved and integrated soon.
+My other Github repositories (e.g. Raspi, ESP8260, ESP32, Win-/Linux-Apps or Web-Apps and Libraries like C++ AES-128 encryption for LORA) will me moved and integrated asap.
