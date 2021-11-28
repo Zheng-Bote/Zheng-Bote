@@ -9,3 +9,6 @@
 [ZHENG Bote (snippets Page)](https://www.bote.hase-zheng.net/)
 
 [(Micro-) Apps and API's](https://www.hase-zheng.net/)
+
+
+My other Github repositories (e.g. Raspi, ESP8260, ESP32, Win-/Linux-Apps or Web-Apps and Libraries like C++ AES-128 encryption for LORA) will me moved and integrated soon.
