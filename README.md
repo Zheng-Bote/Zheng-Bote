@@ -39,9 +39,6 @@ My other Github repositories (e.g. Raspi, ESP8260, ESP32, Win-/Linux-Apps or Web
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
-<br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zheng-Bote&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=f7f4f4&bg_color=0,DCDBDA,000000" alt="my Github Stats"/>
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zheng-Bote&show_icons=true&locale=en&layout=compact&theme=chartreuse-grey" alt="ovi" />
