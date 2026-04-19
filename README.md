@@ -1,40 +1,16 @@
-# Hello World!
+# Hello World 你好世界 Hola Mundo Привет мир Hallo Welt!
 
 ## Github profile page of ZHENG Robert (Zhèng Bó Tè  郑 伯特)
 
+My other Github / GitLab repositories (e.g. Raspi, ESP8260, ESP32, Win-/Linux-Apps or Web-Apps and Libraries like C++ AES-128 encryption for LORA) will be integrated "asap".
+
 **Websites**
 
-[ZHENG Robert (Profile Page)](https://www.robert.hase-zheng.net/)
 
-[ZHENG Bote (private website)](https://www.bote.hase-zheng.net/)
-
-[(Micro-) Apps and API's](https://www.hase-zheng.net/)
-
-[Points of Interest (Geo-Coordinates and Photos of POI's)](https://www.flag-me.info/)
-
-[DigiDocu Dev (web-based documentation management)](https://www.digidocu.dev/)
-
-
-My other Github repositories (e.g. Raspi, ESP8260, ESP32, Win-/Linux-Apps or Web-Apps and Libraries like C++ AES-128 encryption for LORA) will be moved and integrated asap.
-
-<h4 align="left">preferences:</h4>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue.js" width="40" height="40"/> </a>
-
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqllite" width="40" height="40"/> </a>
-
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://podman.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" alt="podman" width="40" height="40"/> </a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+| <img src="https://cdn.svglogos.dev/logos/bigpanda.svg" alt="cool Panda" width="40px" height="auto"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px" height="auto" /> |
+| --- | --- |
+| Profile Page | [https://www.robert.hase-zheng.net](https://www.robert.hase-zheng.net/) |
+| private website | [https://www.bote.hase-zheng.net](https://www.bote.hase-zheng.net/) |
+| (Micro-) Apps and API's | [https://www.hase-zheng.net](https://www.hase-zheng.net/) |
+| Points of Interest | [https://www.flag-me.info](https://www.flag-me.info/) |
+| DigiDocu Dev | [https://www.digidocu.dev](https://www.digidocu.dev/) |
